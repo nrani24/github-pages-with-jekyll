@@ -7,12 +7,15 @@ Neha Rani :)
 ![](picture.jpg)
 
 Brag Sheet:
+
+
+
 Clubs: 
-Social Studies Honor Society
-English Honor Society
-Spanish Honor Society
-Math Honor Society
-FBLA
+Social Studies Honor Society,
+English Honor Society,
+Spanish Honor Society,
+Math Honor Society,
+FBLA,
 International Club
 
 Sports:
@@ -20,13 +23,19 @@ Cross Country
 Track
 
 Activities:
-Indian Dance - 12 years
+Indian Dance - 12 years, 
 Piano - 7 years
 
 Volunteer:
 Centrastate Rehab. Center
+
+
 Indian Cultural Society
+
+
 Healthy Kids Run
+
+
 Youth Council
 
 
