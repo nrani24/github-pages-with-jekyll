@@ -19,7 +19,7 @@ FBLA,
 International Club
 
 Sports:
-Cross Country
+Cross Country,
 Track
 
 Activities:
